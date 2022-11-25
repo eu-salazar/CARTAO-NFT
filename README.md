@@ -3,7 +3,7 @@ Projeto feito para um desafio do Frontendmentor utilizando HTML e CSS
 
 ![preview](./preview.PNG)
 
-[Clique aqui para acessar](https://eu-salazar.github.io/QRCODE-PROJETO/)
+[Clique aqui para acessar](https://eu-salazar.github.io/CARTAO-NFT/)
 
 ## Notas:
  
